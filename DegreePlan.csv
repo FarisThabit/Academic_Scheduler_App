@@ -1,0 +1,12 @@
+Course,Credit Hours,Prerequisite,Corequisite 
+MATH 201,3,Math 102,None
+ISE 291,3,"ICS 104, MATH 102",None
+MATH 208,4,Math 102,None
+CHEM 101,4,None,None
+ICS 202,4,ICS 108,None
+COE 292,3,ISE 291,None
+SWE 206,3,ICS 108,None
+SWE 216,3,SWE 206,None
+ICS 253,3,ICS 104,None
+COE 233,3,ICS 104,None
+IAS 212,2,None,None
